@@ -1,9 +1,0 @@
-[user]
-username: noel-edin
-token: d2c87d1d1ac9be5d393a9ea7386b5d0df8f7e46b6e2ed2677a7683a17f18bc7b
-
-[kattis]
-hostname: kth.kattis.com
-loginurl: https://kth.kattis.com/login
-submissionurl: https://kth.kattis.com/submit
-submissionsurl: https://kth.kattis.com/submissions
